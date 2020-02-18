@@ -3,6 +3,9 @@
 
 # Log file
 *.log
+.idea
+Demonstration-2.iml
+.idea/workspace.xml
 
 # BlueJ files
 *.ctxt
@@ -18,12 +21,6 @@
 *.zip
 *.tar.gz
 *.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
-# ignore .metadata
-*.metadata
 
 # ignore bin
 bin
