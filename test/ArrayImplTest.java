@@ -53,6 +53,7 @@ public class ArrayImplTest {
         array.add("C");
         array.add("D");
         array.add("E");
+        System.out.println(array);
         assertEquals(5, array.size());
         array.remove(0);
         assertEquals(array.get(0), "B");
@@ -72,5 +73,14 @@ public class ArrayImplTest {
         sb.deleteCharAt(sb.length() - 1);
 
         assertEquals("A, B, C", sb.toString());
+    }
+
+    @Test
+    public void shouldReturnTrueIfArrayImplContainsElement(){
+        array.add("A");
+        array.add("B");
+        array.add("C");
+
+        assertTrue(array.contains("A"));
     }
 }
