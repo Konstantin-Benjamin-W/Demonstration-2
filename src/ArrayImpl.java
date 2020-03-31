@@ -18,6 +18,7 @@ public class ArrayImpl implements Array {
         System.out.println(arrayImpl.contains("B"));
         arrayImpl.remove(2);
         System.out.println(arrayImpl);
+        System.out.println(arrayImpl.contains("D"));
     }
 
     private class IteratorImpl implements Iterator {
@@ -34,6 +35,12 @@ public class ArrayImpl implements Array {
                 throw new NoSuchElementException();
             }
             return array[cursor++];
+        }
+
+        @Override
+        public void remove() {
+            array[index - 1] = null;
+            index--;
         }
     }
 
@@ -68,9 +75,12 @@ public class ArrayImpl implements Array {
     }
 
     @Override
-    public void set(int index, Object element) {
-        array[index] = element;
-        //putting element in the cell number index
+    public void set(int number, Object element) {
+        if (number > index - 1) {
+            throw new IndexOutOfBoundsException();
+        }
+        array[number] = element;
+            //putting element in the cell number index
     }
 
     @Override
@@ -90,14 +100,18 @@ public class ArrayImpl implements Array {
         return -1;
     }
 
-
     public String toString(){
         StringBuilder sb = new StringBuilder();
         sb.append("[");
-        sb.append(array[0]);
-        for (int i = 1; i < index; i++) {
-            sb.append(", ");
-            sb.append(array[i]);
+        for (int i = 0; i < index; i++) {
+            if (i == 0) {
+                sb.append(array[0]);
+            } else {
+                if (array.length != 0) {
+                    sb.append(", ");
+                    sb.append(array[i]);
+                }
+            }
         }
         sb.append("]");
         return sb.toString();
@@ -105,6 +119,9 @@ public class ArrayImpl implements Array {
 
     @Override
     public void remove(int number) {
+        if (number > index) {
+            throw new IndexOutOfBoundsException();
+        }
         for (int i = number; i < index; i++) {
             array[i] = array[i + 1];
         }
@@ -114,7 +131,7 @@ public class ArrayImpl implements Array {
     @Override
     public boolean contains(Object element) {
         for (int i = 0; i < index; i++) {
-            if (array[i] == element) {
+            if (array[i].equals(element)) {
                 return true;
             }
         }

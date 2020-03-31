@@ -4,6 +4,6 @@ public interface Array extends Container {
 	Object get(int index);
 	int indexOf(Object object);
 	void remove(int index);
-	//проверяет наличие элемента в коллекции, тру - если есть, фолз - если нет
+	//проверяет наличие элемента в коллекции, тру - если есть, фолс - если нет
 	boolean contains(Object element);
 }
