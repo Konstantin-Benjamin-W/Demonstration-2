@@ -220,6 +220,49 @@ public class ArrayImplTest {
         assertEquals("C", iterator.next());
         assertFalse(iterator.hasNext());
         iterator.next();
+    }
 
+    @Test
+    public void shouldRemoveAllElementsWithIterator(){
+        array.add("A");
+        array.add("B");
+        array.add("C");
+
+        Iterator iterator = array.iterator();
+        String temp;
+        int count = 0;
+        //итератор берез элемент начиная с 0, записывает его в temp
+        //сравниваем нулевой элемент и temp
+        while (iterator.hasNext()){
+            temp = (String) iterator.next();
+            assertEquals(array.get(count), temp);
+            iterator.remove();
+        }
+        assertEquals(0, array.size());
+        assertEquals("[]", array.toString());
+    }
+
+    @Test
+    public void shouldRemoveLastReturnedElementWithIterator(){
+        array.add("A");
+        array.add("B");
+        array.add("C");
+
+        Iterator iterator = array.iterator();
+
+        Object temp = iterator.next();
+        assertEquals("A", temp);
+        iterator.remove();
+        assertEquals("[B, C]", array.toString());
+
+        temp = iterator.next();
+        assertEquals("B", temp);
+        iterator.remove();
+        assertEquals("[C]", array.toString());
+
+        temp = iterator.next();
+        assertEquals("C", temp);
+        iterator.remove();
+        assertEquals("[]", array.toString());
     }
 }
