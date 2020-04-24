@@ -1,32 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95cb6923-263b-41ed-943e-5bed3509a2c5" name="Default Changelist" comment="Added">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice2.iml" beforeDir="false" />
+    <list default="true" id="95cb6923-263b-41ed-943e-5bed3509a2c5" name="Default Changelist" comment="Second Project&#10;JUnit tests">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountingLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IQDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ArrayImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ArrayImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="183" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Practice2" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+    <option name="SCHEME" value="Project" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="task2" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Konstantin-Benjamin-W" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Demonstration-2" />
   </component>
   <component name="ProjectId" id="1WwQoKRSECclS0sXW13bNKSVbfW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,50 +49,85 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice1/src/Part7.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ReverseArray.java" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ArrayImpl">
-    <configuration name="ArrayImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayImpl" />
-      <module name="Demonstration-2" />
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ReverseArray" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.IQDemo">
+    <configuration name="IQDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IQDemo" />
+      <module name="Practice2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <module name="Demonstration-2" />
+    <configuration name="QSDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QSDemo" />
+      <module name="Practice2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueOnArray$QDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueueOnArray$QDemo" />
+      <module name="Practice2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShowBitsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShowBitsDemo" />
+      <module name="Practice2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TruckDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TruckDemo" />
+      <module name="Practice2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.ArrayImpl" />
+      <item itemvalue="Application.QueueOnArray$QDemo" />
+      <item itemvalue="Application.ShowBitsDemo" />
+      <item itemvalue="Application.QSDemo" />
+      <item itemvalue="Application.TruckDemo" />
+      <item itemvalue="Application.IQDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayImpl" />
+        <item itemvalue="Application.IQDemo" />
+        <item itemvalue="Application.TruckDemo" />
+        <item itemvalue="Application.QSDemo" />
+        <item itemvalue="Application.QueueOnArray$QDemo" />
+        <item itemvalue="Application.ShowBitsDemo" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,VISIBILITY_SORTER,ALPHA_COMPARATOR" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -92,96 +140,196 @@
       <option name="presentableId" value="Default" />
       <updated>1580058353192</updated>
     </task>
-    <task id="LOCAL-00001" summary="Changed gitignore">
-      <created>1580980267621</created>
+    <task id="LOCAL-00001" summary="Second Project">
+      <created>1580924174185</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1580980267621</updated>
+      <updated>1580924174265</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second Project&#10;Sub-task">
+      <created>1582036937417</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582036937417</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Second Project&#10;Sub-task">
+      <created>1582036991667</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582036991667</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Second Project&#10;Sub-task">
+      <created>1582050804242</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582050804242</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Second Project&#10;JUnit tests">
+      <created>1585552698899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585552698899</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Second Project&#10;JUnit tests">
+      <created>1585664719753</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585664719754</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Project" />
     <MESSAGE value="Second Project" />
-    <MESSAGE value="Changed gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed gitignore" />
+    <MESSAGE value="Second Project&#10;Sub-task" />
+    <MESSAGE value="Second Project&#10;JUnit tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Project&#10;JUnit tests" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="404" y="115" key="#Unnamed" timestamp="1580980087772">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="404" y="115" key="#Unnamed/0.0.1440.900@0.0.1440.900" timestamp="1580980087772" />
-    <state x="144" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580980123144">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580058552210" />
-    <state x="144" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1580980123144" />
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1580226909640">
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1586705718042">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1580226909640" />
-    <state x="417" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580980056904">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="417" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1580980056904" />
-    <state x="570" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580979966075">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="570" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1580979966075" />
-    <state x="355" y="0" key="CommitChangelistDialog2" timestamp="1580980414717">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580921837827" />
-    <state x="355" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1580980414717" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1580919984658">
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1586705718042" />
+    <state x="275" y="23" key="#Plugins" timestamp="1584441824725">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580919984658" />
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1580980202016">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1323" height="144" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580919763384" />
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580980202016" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1580980202013">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1323" height="144" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580919763383" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580980202013" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1580980202012">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1323" height="144" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580919763383" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580980202012" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1580980202015">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1323" height="144" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580919763383" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580980202015" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1580980202020">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580980202020" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1580980202018">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1580980202018" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1580980202017">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1580980202017" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1580980202019">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580980202019" />
-    <state x="208" y="31" key="SettingsEditor" timestamp="1580980143013">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580980143013" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580916816163">
+    <state x="275" y="23" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1584441824725" />
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584445832286">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580916816163" />
+    <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584445832286" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582133129619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582133129619" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585479967480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1585479967480" />
+    <state x="322" y="52" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1582111029017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="322" y="52" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582111029017" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584704204148">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584704204148" />
+    <state x="413" y="141" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582125721363">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="141" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1582125721363" />
+    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582132935515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1582132935515" />
+    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582121091840">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1582121091840" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1585664714701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585664714701" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582123473989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582123473989" />
+    <state x="416" y="232" key="Github.CreatePullRequestDialog" timestamp="1581357408968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="416" y="232" key="Github.CreatePullRequestDialog/0.0.1366.728@0.0.1366.728" timestamp="1581357408968" />
+    <state width="1323" height="102" key="GridCell.Tab.0.bottom" timestamp="1587726549821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="102" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587726549821" />
+    <state width="1323" height="102" key="GridCell.Tab.0.center" timestamp="1587726549821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="102" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587726549821" />
+    <state width="1323" height="102" key="GridCell.Tab.0.left" timestamp="1587726549821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="102" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587726549821" />
+    <state width="1323" height="102" key="GridCell.Tab.0.right" timestamp="1587726549821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="102" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587726549821" />
+    <state x="129" y="61" key="MergeDialog" timestamp="1582037206488">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="61" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1582037206488" />
+    <state x="395" y="81" key="MultipleFileMergeDialog" timestamp="1582037216869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="81" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1582037216869" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1584703531891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584703531891" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1585665465914">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585665465914" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1587721187336">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587721187336" />
+    <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584703594331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1584703594331" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585749182723">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1585749182723" />
+    <state x="226" y="100" width="975" height="713" maximized="true" key="dock-window-1" timestamp="1585501335640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="226" y="100" width="975" height="713" maximized="true" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1585501335640" />
+    <state x="770" y="108" width="599" height="705" key="dock-window-2" timestamp="1585501932556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="770" y="108" width="599" height="705" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1585501932556" />
+    <state x="348" y="156" key="git4idea.merge.GitPullDialog" timestamp="1581357005897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1581357005897" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585039720074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1366.728@0.0.1366.728" timestamp="1585039720074" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1586706544348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1586706544348" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1587726238660">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587726238660" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587398526708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587398526708" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/junit-4.13/junit/runner/Version.class</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Practice2$ArrayImpl.ic" NAME="ArrayImpl Coverage Results" MODIFIED="1581335751682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
