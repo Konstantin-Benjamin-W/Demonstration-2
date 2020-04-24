@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95cb6923-263b-41ed-943e-5bed3509a2c5" name="Default Changelist" comment="Second Project&#10;JUnit tests">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountingLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IQDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sound.java" afterDir="false" />
+    <list default="true" id="95cb6923-263b-41ed-943e-5bed3509a2c5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ArrayImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ArrayImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585664719754</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Trying By Shildt">
+      <created>1587741155798</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587741155812</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,7 +189,8 @@
     <MESSAGE value="Second Project" />
     <MESSAGE value="Second Project&#10;Sub-task" />
     <MESSAGE value="Second Project&#10;JUnit tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Project&#10;JUnit tests" />
+    <MESSAGE value="Trying By Shildt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying By Shildt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1586705718042">
@@ -233,10 +233,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1582121091840" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1585664714701">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1587741153555">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585664714701" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587741153555" />
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582123473989">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -273,10 +273,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584703531891" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1585665465914">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1587741232796">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585665465914" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587741232796" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1587721187336">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
