@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95cb6923-263b-41ed-943e-5bed3509a2c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/QExcDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ICharQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ICharQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IQDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IQDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +68,16 @@
       <command value="ReverseArray" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.IQDemo">
+  <component name="RunManager" selected="Application.QExcDemo">
     <configuration name="IQDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IQDemo" />
+      <module name="Practice2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QExcDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QExcDemo" />
       <module name="Practice2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,13 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShowBitsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShowBitsDemo" />
-      <module name="Practice2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TruckDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TruckDemo" />
       <module name="Practice2" />
@@ -103,18 +106,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.QueueOnArray$QDemo" />
-      <item itemvalue="Application.ShowBitsDemo" />
       <item itemvalue="Application.QSDemo" />
       <item itemvalue="Application.TruckDemo" />
       <item itemvalue="Application.IQDemo" />
+      <item itemvalue="Application.QExcDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QExcDemo" />
         <item itemvalue="Application.IQDemo" />
         <item itemvalue="Application.TruckDemo" />
         <item itemvalue="Application.QSDemo" />
         <item itemvalue="Application.QueueOnArray$QDemo" />
-        <item itemvalue="Application.ShowBitsDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587741155812</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Trying By Shildt&#10;Interface">
+      <created>1587741977387</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587741977387</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,7 +200,8 @@
     <MESSAGE value="Second Project&#10;Sub-task" />
     <MESSAGE value="Second Project&#10;JUnit tests" />
     <MESSAGE value="Trying By Shildt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trying By Shildt" />
+    <MESSAGE value="Trying By Shildt&#10;Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying By Shildt&#10;Interface" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1586705718042">
@@ -233,10 +244,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1582121091840" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1587741153555">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1587741975546">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587741153555" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587741975546" />
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582123473989">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -245,22 +256,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="416" y="232" key="Github.CreatePullRequestDialog/0.0.1366.728@0.0.1366.728" timestamp="1581357408968" />
-    <state width="1323" height="102" key="GridCell.Tab.0.bottom" timestamp="1587726549821">
+    <state width="1323" height="238" key="GridCell.Tab.0.bottom" timestamp="1588331950994">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="102" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587726549821" />
-    <state width="1323" height="102" key="GridCell.Tab.0.center" timestamp="1587726549821">
+    <state width="1323" height="238" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588331950994" />
+    <state width="1323" height="238" key="GridCell.Tab.0.center" timestamp="1588331950994">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="102" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587726549821" />
-    <state width="1323" height="102" key="GridCell.Tab.0.left" timestamp="1587726549821">
+    <state width="1323" height="238" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588331950994" />
+    <state width="1323" height="238" key="GridCell.Tab.0.left" timestamp="1588331950993">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="102" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587726549821" />
-    <state width="1323" height="102" key="GridCell.Tab.0.right" timestamp="1587726549821">
+    <state width="1323" height="238" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588331950993" />
+    <state width="1323" height="238" key="GridCell.Tab.0.right" timestamp="1588331950994">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="102" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587726549821" />
+    <state width="1323" height="238" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588331950994" />
     <state x="129" y="61" key="MergeDialog" timestamp="1582037206488">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -273,14 +284,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584703531891" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1587741232796">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1587741998285">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587741232796" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1587721187336">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587741998285" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1588322598192">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587721187336" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588322598192" />
     <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584703594331">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
