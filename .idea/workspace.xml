@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95cb6923-263b-41ed-943e-5bed3509a2c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/QExcDemo.java" afterDir="false" />
+    <list default="true" id="95cb6923-263b-41ed-943e-5bed3509a2c5" name="Default Changelist" comment="#9 By Schildt&#10;Exceptions">
+      <change afterPath="$PROJECT_DIR$/src/FixedQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ICharQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ICharQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IQDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IQDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587741977387</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="#9 By Schildt">
+      <created>1588332589150</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588332589150</updated>
+    </task>
+    <task id="LOCAL-00010" summary="#9 By Schildt&#10;Exceptions">
+      <created>1588332644005</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588332644005</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,7 +213,9 @@
     <MESSAGE value="Second Project&#10;JUnit tests" />
     <MESSAGE value="Trying By Shildt" />
     <MESSAGE value="Trying By Shildt&#10;Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trying By Shildt&#10;Interface" />
+    <MESSAGE value="#9 By Schildt" />
+    <MESSAGE value="#9 By Schildt&#10;Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="#9 By Schildt&#10;Exceptions" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1586705718042">
@@ -244,10 +258,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1582121091840" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588332587366">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588332660406">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588332587366" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588332660406" />
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582123473989">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
