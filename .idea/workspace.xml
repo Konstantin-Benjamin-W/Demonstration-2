@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95cb6923-263b-41ed-943e-5bed3509a2c5" name="Default Changelist" comment="#9 By Schildt&#10;Exceptions">
-      <change afterPath="$PROJECT_DIR$/src/FixedQueue.java" afterDir="false" />
+    <list default="true" id="95cb6923-263b-41ed-943e-5bed3509a2c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Sausage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +66,7 @@
       <command value="ReverseArray" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.QExcDemo">
+  <component name="RunManager" selected="Application.Temp">
     <configuration name="IQDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IQDemo" />
       <module name="Practice2" />
@@ -81,15 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QSDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QSDemo" />
-      <module name="Practice2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QueueOnArray$QDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QueueOnArray$QDemo" />
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temp" />
       <module name="Practice2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,20 +95,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temp" />
+      <module name="Practice2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.QueueOnArray$QDemo" />
-      <item itemvalue="Application.QSDemo" />
-      <item itemvalue="Application.TruckDemo" />
       <item itemvalue="Application.IQDemo" />
       <item itemvalue="Application.QExcDemo" />
+      <item itemvalue="Application.TruckDemo" />
+      <item itemvalue="Application.temp" />
+      <item itemvalue="Application.Temp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Temp" />
+        <item itemvalue="Application.temp" />
         <item itemvalue="Application.QExcDemo" />
         <item itemvalue="Application.IQDemo" />
         <item itemvalue="Application.TruckDemo" />
-        <item itemvalue="Application.QSDemo" />
-        <item itemvalue="Application.QueueOnArray$QDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588332644005</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="#9 By Schildt&#10;Fixed Queue">
+      <created>1588332788134</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588332788134</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -215,7 +222,8 @@
     <MESSAGE value="Trying By Shildt&#10;Interface" />
     <MESSAGE value="#9 By Schildt" />
     <MESSAGE value="#9 By Schildt&#10;Exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="#9 By Schildt&#10;Exceptions" />
+    <MESSAGE value="#9 By Schildt&#10;Fixed Queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="#9 By Schildt&#10;Fixed Queue" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1586705718042">
@@ -258,10 +266,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1582121091840" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588332660406">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588866106115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588332660406" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588866106115" />
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582123473989">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -270,22 +278,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="416" y="232" key="Github.CreatePullRequestDialog/0.0.1366.728@0.0.1366.728" timestamp="1581357408968" />
-    <state width="1323" height="238" key="GridCell.Tab.0.bottom" timestamp="1588331950994">
+    <state width="1323" height="95" key="GridCell.Tab.0.bottom" timestamp="1588693471704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588331950994" />
-    <state width="1323" height="238" key="GridCell.Tab.0.center" timestamp="1588331950994">
+    <state width="1323" height="95" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588693471704" />
+    <state width="1323" height="95" key="GridCell.Tab.0.center" timestamp="1588693471704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588331950994" />
-    <state width="1323" height="238" key="GridCell.Tab.0.left" timestamp="1588331950993">
+    <state width="1323" height="95" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588693471704" />
+    <state width="1323" height="95" key="GridCell.Tab.0.left" timestamp="1588693471704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588331950993" />
-    <state width="1323" height="238" key="GridCell.Tab.0.right" timestamp="1588331950994">
+    <state width="1323" height="95" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588693471704" />
+    <state width="1323" height="95" key="GridCell.Tab.0.right" timestamp="1588693471704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="238" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588331950994" />
+    <state width="1323" height="95" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588693471704" />
     <state x="129" y="61" key="MergeDialog" timestamp="1582037206488">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -298,14 +306,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584703531891" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1587741998285">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1588332890827">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587741998285" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1588322598192">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588332890827" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1588840114058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588322598192" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588840114058" />
     <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584703594331">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -338,10 +346,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587726238660" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587398526708">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588754991439">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587398526708" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588754991439" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
