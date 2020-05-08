@@ -1,5 +1,16 @@
-public class Milk extends Food implements GetIdAndPrice{
-    int volume;
+package inheritance;
+
+public class Sausage extends Food implements GetIdAndPrice {
+    String manufacturerName;
+
+    //setting and getting manufacturer name
+    public void setManufacturerName(String s) {
+        manufacturerName = s;
+    }
+
+    public String getManufacturerName() {
+        return manufacturerName;
+    }
 
     //setting and getting id
     public void setId(int i) {
@@ -28,20 +39,11 @@ public class Milk extends Food implements GetIdAndPrice{
         return nutritionalValue;
     }
 
-    //setting and getting volume
-    public void setVolume(int v) {
-        volume = v;
-    }
-
-    public int getVolume() {
-        return volume;
-    }
-
-    public Milk(int i, double p, int nv, int v) {
+    public Sausage(String s, int i, double p, int nv) {
+        this.manufacturerName = s;
         this.id = i;
         this.price = p;
         this.nutritionalValue = nv;
-        this.volume = v;
     }
 
     @Override
@@ -60,16 +62,16 @@ public class Milk extends Food implements GetIdAndPrice{
 
     @Override
     public String toString() {
-        return String.format("ID: " + this.id + "\n" +
-                "price: " + this.price + "\n" +
-                "Nutritional Value: " + this.nutritionalValue);
+        return String.format("Manufacturer name: " + this.manufacturerName + "\n" +
+                "ID: " + this.id + "\n" +
+                "price: " + this.price + "\n");
     }
 
     //Overriding interface method
     @Override
     public void getIdAndPrice() {
-        System.out.println("The ID of milk is " + this.id + ", and it's price is " + this.price);
+        System.out.println("The ID of sausage is " + this.id + ", and it's price is " + this.price);
     }
 
-    Milk milk = new Milk(430, 30.5, 1_000, 2);
+    Sausage sausage = new Sausage("Elyon", 357, 120.20, 2_000);
 }

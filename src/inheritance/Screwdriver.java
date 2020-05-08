@@ -1,4 +1,7 @@
-public class Hammer extends HouseholdGoods implements GetIdAndPrice {
+package inheritance;
+
+public class Screwdriver extends HouseholdGoods implements GetIdAndPrice {
+    String plusOrMinus;
 
     //setting and getting id (all)
     public void setId(int i) {
@@ -27,12 +30,14 @@ public class Hammer extends HouseholdGoods implements GetIdAndPrice {
         return weight;
     }
 
-    public Hammer(int i, double p, double w) {
+    public Screwdriver(int i, double p, double w, String pom) {
         this.id = i;
         this.price = p;
         this.weight = w;
+        this.plusOrMinus = pom;
     }
 
+    //Overriding existing methods
     @Override
     public int hashCode() {
         return 0;
@@ -55,8 +60,9 @@ public class Hammer extends HouseholdGoods implements GetIdAndPrice {
     }
 
     //Overriding interface method
-    @Override
     public void getIdAndPrice() {
-        System.out.println("The ID of hammer is " + this.id + ", and it's price is" + this.price);
+        System.out.println("The ID of the screwdriver is " + this.id + ", and it's price is " + this.price);
     }
+
+    Screwdriver screwdriver = new Screwdriver(220, 15.2, 0.5, "plus");
 }

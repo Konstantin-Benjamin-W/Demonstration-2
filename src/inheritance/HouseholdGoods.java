@@ -1,3 +1,5 @@
+package inheritance;
+
 abstract public class HouseholdGoods extends Product {
-    double weight;
+    public double weight;
 }

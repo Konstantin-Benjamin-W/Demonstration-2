@@ -1,3 +1,5 @@
+package inheritance;
+
 public class Pen extends Stationary implements GetIdAndPrice {
     String colour;
 
@@ -20,7 +22,7 @@ public class Pen extends Stationary implements GetIdAndPrice {
         return price;
     }
 
-    //Stationary
+    //inheritance.Stationary
     //setting and getting length
     public void setLength(double len) {
         length = len;

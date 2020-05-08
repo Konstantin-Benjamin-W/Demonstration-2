@@ -1,4 +1,6 @@
-public class Pencil extends Stationary implements GetIdAndPrice{
+package inheritance;
+
+public class Pencil extends Stationary implements GetIdAndPrice {
 
     //All
     //setting and getting id
@@ -19,7 +21,7 @@ public class Pencil extends Stationary implements GetIdAndPrice{
         return price;
     }
 
-    //Stationary
+    //inheritance.Stationary
     //setting and getting length
     public void setLength(double len) {
         length = len;

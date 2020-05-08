@@ -1,3 +1,5 @@
+package inheritance;
+
 abstract public class Stationary extends Product {
-    double length;
+    public double length;
 }
