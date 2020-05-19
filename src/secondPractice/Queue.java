@@ -1,4 +1,8 @@
-public interface Queue extends Container{
+package secondPractice;
+
+import secondPractice.Container;
+
+public interface Queue extends Container {
 
     // Appends the specified element to the end.
     void enqueue(Object element);

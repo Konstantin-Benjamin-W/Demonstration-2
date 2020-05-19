@@ -4,7 +4,7 @@
 //import java.util.Iterator;
 //import java.util.NoSuchElementException;
 //
-//public class ListImpl implements List {
+//public class ListImpl implements secondPractice.List {
 //
 //    ArrayList<Object> array = new ArrayList<>();
 //    Object element;
@@ -53,7 +53,7 @@
 //        return new IteratorImpl();
 //    }
 //
-//    //below is realization of methods of Container
+//    //below is realization of methods of secondPractice.Container
 //    @Override
 //    public void clear(){
 //        int index = array.length;
@@ -81,7 +81,7 @@
 //        return sb.toString();
 //    }
 //
-//    //there is realization of methods of List below
+//    //there is realization of methods of secondPractice.List below
 //    @Override
 //    public void addFirst(Object element){
 //        array[0] = element;

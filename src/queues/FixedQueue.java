@@ -1,3 +1,5 @@
+package queues;
+
 public class FixedQueue implements ICharQ {
         private char q[];
         private int putloc, getloc;
@@ -9,7 +11,7 @@ public class FixedQueue implements ICharQ {
         }
 
         //Поместить символ в очередь
-        public void put(char ch) throws QueueFullException{
+        public void put(char ch) throws QueueFullException {
             if (putloc == q.length - 1) {
                 throw new QueueFullException(q.length - 1);
             }
@@ -19,7 +21,7 @@ public class FixedQueue implements ICharQ {
         }
 
         //Извлечь символ из очереди
-        public char get() throws QueueEmptyException{
+        public char get() throws QueueEmptyException {
             if (getloc == putloc) {
                 throw new QueueEmptyException();
             }

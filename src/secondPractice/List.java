@@ -1,3 +1,7 @@
+package secondPractice;
+
+import secondPractice.Container;
+
 public interface List extends Container {
 
     // Inserts the specified element at the beginning.

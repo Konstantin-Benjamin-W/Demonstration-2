@@ -1,10 +1,10 @@
 //public class IQDemo {
 //    public static void main(String[] args) {
-//        FixedQueue q1 = new FixedQueue(10);
-//        DynQueue q2 = new DynQueue(5);
-//        CircularQueue q3 = new CircularQueue(10);
+//        queues.FixedQueue q1 = new queues.FixedQueue(10);
+//        queues.DynQueue q2 = new queues.DynQueue(5);
+//        queues.CircularQueue q3 = new queues.CircularQueue(10);
 //
-//        ICharQ iQ;
+//        queues.ICharQ iQ;
 //        char ch;
 //        int i;
 //

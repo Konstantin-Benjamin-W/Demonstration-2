@@ -1,3 +1,9 @@
+package queues;
+
+import queues.FixedQueue;
+import queues.QueueEmptyException;
+import queues.QueueFullException;
+
 public class QExcDemo {
     public static void main(String[] args) {
         FixedQueue q = new FixedQueue(10);

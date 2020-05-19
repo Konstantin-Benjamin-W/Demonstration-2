@@ -1,10 +1,10 @@
 //public class StackImpl {
 //    //В классе StackImpl создать метод main, в котором продемонстрировать работу:
-//    //1) всех методов интерфейса Stack (включая унаследованные от Container и Iterable);
+//    //1) всех методов интерфейса secondPractice.Stack (включая унаследованные от secondPractice.Container и Iterable);
 //    //2) всех методов интерфейса Iterator (hasNext/next/remove).
 //
 //    Object[] stack = new Object[];
-//    //below is realization of methods Stack
+//    //below is realization of methods secondPractice.Stack
 //    @Override
 //    public void push() {
 //        for (int i = 0; i < stack.length; i++) {

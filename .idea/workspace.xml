@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95cb6923-263b-41ed-943e-5bed3509a2c5" name="Default Changelist" comment="">
+    <list default="true" id="95cb6923-263b-41ed-943e-5bed3509a2c5" name="Default Changelist" comment="#1 From Teacher&#10;Forgot">
+      <change afterPath="$PROJECT_DIR$/test/MilkTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/ArrayImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/Container.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FixedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queues/FixedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ICharQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queues/ICharQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IQDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queues/IQDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/ListImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QExcDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queues/QExcDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QueueFullException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queues/QueueFullException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QueueImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/QueueImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/StackImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/GetIdAndPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/PrintIdAndPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Hammer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/HouseholdGoods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Milk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Pen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Pencil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Sausage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Sausage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Screwdriver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance/Stationary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Stationary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +84,10 @@
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Programming\EPAM_1\Practice2\src\secondPractice" />
+      <recent name="E:\Programming\EPAM_1\Practice2\src\queues" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
@@ -65,30 +97,9 @@
       <command value="ReverseArray" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Temp">
-    <configuration name="IQDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IQDemo" />
-      <module name="Practice2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QExcDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QExcDemo" />
-      <module name="Practice2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MilkTest">
     <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Temp" />
-      <module name="Practice2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TruckDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TruckDemo" />
       <module name="Practice2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,20 +112,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MilkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Practice2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MilkTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MilkTest.shouldReturnTrueIfStringEqualsExpected" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Practice2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MilkTest" />
+      <option name="METHOD_NAME" value="shouldReturnTrueIfStringEqualsExpected" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MilkTest.shouldReturnTrueIfStringNotEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Practice2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MilkTest" />
+      <option name="METHOD_NAME" value="shouldReturnTrueIfStringNotEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.IQDemo" />
-      <item itemvalue="Application.QExcDemo" />
       <item itemvalue="Application.Temp" />
-      <item itemvalue="Application.TruckDemo" />
       <item itemvalue="Application.temp" />
+      <item itemvalue="JUnit.MilkTest" />
+      <item itemvalue="JUnit.MilkTest.shouldReturnTrueIfStringEqualsExpected" />
+      <item itemvalue="JUnit.MilkTest.shouldReturnTrueIfStringNotEmpty" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MilkTest" />
+        <item itemvalue="JUnit.MilkTest.shouldReturnTrueIfStringNotEmpty" />
+        <item itemvalue="JUnit.MilkTest.shouldReturnTrueIfStringEqualsExpected" />
         <item itemvalue="Application.Temp" />
         <item itemvalue="Application.temp" />
-        <item itemvalue="Application.QExcDemo" />
-        <item itemvalue="Application.IQDemo" />
-        <item itemvalue="Application.TruckDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +256,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588866198862</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="#1 From Teacher&#10;Forgot">
+      <created>1588923643087</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1588923643087</updated>
+    </task>
+    <task id="LOCAL-00014" summary="#1 From Teacher&#10;All">
+      <created>1588927283922</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1588927283934</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,13 +284,15 @@
     <MESSAGE value="#9 By Schildt&#10;Exceptions" />
     <MESSAGE value="#9 By Schildt&#10;Fixed Queue" />
     <MESSAGE value="#1 From Teacher" />
-    <option name="LAST_COMMIT_MESSAGE" value="#1 From Teacher" />
+    <MESSAGE value="#1 From Teacher&#10;Forgot" />
+    <MESSAGE value="#1 From Teacher&#10;All" />
+    <option name="LAST_COMMIT_MESSAGE" value="#1 From Teacher&#10;All" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1586705718042">
+    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1589811580661">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1586705718042" />
+    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1589811580661" />
     <state x="275" y="23" key="#Plugins" timestamp="1584441824725">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -249,18 +305,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582133129619" />
-    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585479967480">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589798136767">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1585479967480" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1589798136767" />
     <state x="322" y="52" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1582111029017">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="322" y="52" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582111029017" />
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1584704204148">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1589878268005">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584704204148" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589878268005" />
     <state x="413" y="141" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582125721363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -273,10 +329,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1582121091840" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588866196857">
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588943487204">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588866196857" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588943487204" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588927276077">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588927276077" />
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582123473989">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -285,22 +345,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="416" y="232" key="Github.CreatePullRequestDialog/0.0.1366.728@0.0.1366.728" timestamp="1581357408968" />
-    <state width="1323" height="95" key="GridCell.Tab.0.bottom" timestamp="1588693471704">
+    <state width="1323" height="151" key="GridCell.Tab.0.bottom" timestamp="1589884591403">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="95" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588693471704" />
-    <state width="1323" height="95" key="GridCell.Tab.0.center" timestamp="1588693471704">
+    <state width="1323" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589884591403" />
+    <state width="1323" height="151" key="GridCell.Tab.0.center" timestamp="1589884591402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="95" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588693471704" />
-    <state width="1323" height="95" key="GridCell.Tab.0.left" timestamp="1588693471704">
+    <state width="1323" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589884591402" />
+    <state width="1323" height="151" key="GridCell.Tab.0.left" timestamp="1589884591402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="95" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588693471704" />
-    <state width="1323" height="95" key="GridCell.Tab.0.right" timestamp="1588693471704">
+    <state width="1323" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589884591402" />
+    <state width="1323" height="151" key="GridCell.Tab.0.right" timestamp="1589884591402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="95" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588693471704" />
+    <state width="1323" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589884591402" />
     <state x="129" y="61" key="MergeDialog" timestamp="1582037206488">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -313,14 +373,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584703531891" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1588866334208">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1588923670866">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588866334208" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1588923550516">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588923670866" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589876756776">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588923550516" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589876756776" />
     <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584703594331">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -345,18 +405,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="600" height="424" key="javadoc.popup/0.0.1366.728@0.0.1366.728" timestamp="1585039720074" />
-    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1586706544348">
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1589878324126">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1586706544348" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1589878324126" />
     <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1588867663159">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1588867663159" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588754991439">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588944609914">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588754991439" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588944609914" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

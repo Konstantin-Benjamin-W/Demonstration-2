@@ -1,4 +1,8 @@
-public interface Stack extends Container{
+package secondPractice;
+
+import secondPractice.Container;
+
+public interface Stack extends Container {
     // Pushes the specified element onto the top.
     void push(Object element);
 

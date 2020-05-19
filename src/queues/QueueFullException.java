@@ -1,3 +1,5 @@
+package queues;
+
 //Исключение, указывающее на переполнение очереди
 public class QueueFullException extends Exception {
     int size;

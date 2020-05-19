@@ -2,7 +2,7 @@
 //
 //import java.util.Scanner;
 //
-//public class QueueImpl implements Queue{
+//public class QueueImpl implements secondPractice.Queue{
 //    private static Object element = "Johny";
 //    private Object[] queue = new Object[4];
 //
@@ -34,7 +34,7 @@
 //    counter++;
 //    int[] queue = new int[counter];
 //
-//    //below is realization of methods of Queue
+//    //below is realization of methods of secondPractice.Queue
 //    @Override
 //    public Object[] enqueue() {
 //        Object[] queue2 = new Object[queue.length + 1];
@@ -56,7 +56,7 @@
 //        return queue[queue.length - 1];
 //    }
 //
-//    //below is realization of methods of Container
+//    //below is realization of methods of secondPractice.Container
 //    @Override
 //    public void clear() {
 //        for (int i = 0; i < queue.length; i++) {
@@ -82,6 +82,6 @@
 //        return sb.toString();
 //    }
 //}
-//    //1) всех методов интерфейса Queue (включая унаследованные от Container и Iterable);
+//    //1) всех методов интерфейса secondPractice.Queue (включая унаследованные от secondPractice.Container и Iterable);
 //    //2) всех методов интерфейса Iterator (hasNext/next/remove).
 //}
