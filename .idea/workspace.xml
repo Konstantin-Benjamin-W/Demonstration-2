@@ -2,32 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95cb6923-263b-41ed-943e-5bed3509a2c5" name="Default Changelist" comment="#1 From Teacher&#10;Forgot">
-      <change afterPath="$PROJECT_DIR$/test/MilkTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/ArrayImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/Container.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FixedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queues/FixedQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Food.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ICharQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queues/ICharQ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IQDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queues/IQDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/ListImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QExcDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queues/QExcDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QueueFullException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/queues/QueueFullException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QueueImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/QueueImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StackImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/secondPractice/StackImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/GetIdAndPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/PrintIdAndPrice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inheritance/Hammer.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inheritance/HouseholdGoods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Milk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inheritance/Pen.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inheritance/Pencil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inheritance/Sausage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Sausage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inheritance/Screwdriver.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/inheritance/Stationary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/inheritance/Stationary.java" afterDir="false" />
@@ -97,16 +76,16 @@
       <command value="ReverseArray" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MilkTest">
-    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Temp" />
+  <component name="RunManager" selected="Application.MyLinkedListDemo">
+    <configuration name="MyLinkedListDemo" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyLinkedListDemo" />
       <module name="Practice2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="temp" />
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temp" />
       <module name="Practice2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,18 +122,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Temp" />
-      <item itemvalue="Application.temp" />
+      <item itemvalue="Application.MyLinkedListDemo" />
       <item itemvalue="JUnit.MilkTest" />
       <item itemvalue="JUnit.MilkTest.shouldReturnTrueIfStringEqualsExpected" />
       <item itemvalue="JUnit.MilkTest.shouldReturnTrueIfStringNotEmpty" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyLinkedListDemo" />
         <item itemvalue="JUnit.MilkTest" />
         <item itemvalue="JUnit.MilkTest.shouldReturnTrueIfStringNotEmpty" />
         <item itemvalue="JUnit.MilkTest.shouldReturnTrueIfStringEqualsExpected" />
         <item itemvalue="Application.Temp" />
-        <item itemvalue="Application.temp" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588927283934</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="#1 From Teacher&#10;Add Tests">
+      <created>1589898767441</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1589898767441</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -286,7 +272,8 @@
     <MESSAGE value="#1 From Teacher" />
     <MESSAGE value="#1 From Teacher&#10;Forgot" />
     <MESSAGE value="#1 From Teacher&#10;All" />
-    <option name="LAST_COMMIT_MESSAGE" value="#1 From Teacher&#10;All" />
+    <MESSAGE value="#1 From Teacher&#10;Add Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="#1 From Teacher&#10;Add Tests" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1589811580661">
@@ -301,10 +288,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584445832286" />
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582133129619">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590051139398">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582133129619" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1590051139398" />
     <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1589798136767">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -313,10 +300,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="322" y="52" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582111029017" />
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1589878268005">
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1590047590908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589878268005" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1590047590908" />
     <state x="413" y="141" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582125721363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -333,34 +320,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588943487204" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1588927276077">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1590075006464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588927276077" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1590075006464" />
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582123473989">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582123473989" />
-    <state x="416" y="232" key="Github.CreatePullRequestDialog" timestamp="1581357408968">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1590074945495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="416" y="232" key="Github.CreatePullRequestDialog/0.0.1366.728@0.0.1366.728" timestamp="1581357408968" />
-    <state width="1323" height="151" key="GridCell.Tab.0.bottom" timestamp="1589884591403">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590074945495" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1590074945494">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589884591403" />
-    <state width="1323" height="151" key="GridCell.Tab.0.center" timestamp="1589884591402">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590074945494" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1590074945494">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589884591402" />
-    <state width="1323" height="151" key="GridCell.Tab.0.left" timestamp="1589884591402">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590074945494" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1590074945495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589884591402" />
-    <state width="1323" height="151" key="GridCell.Tab.0.right" timestamp="1589884591402">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589884591402" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590074945495" />
     <state x="129" y="61" key="MergeDialog" timestamp="1582037206488">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -373,14 +356,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584703531891" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1588923670866">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1589898787800">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588923670866" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589876756776">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589898787800" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1590047291110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589876756776" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590047291110" />
     <state x="387" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584703594331">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -397,10 +380,6 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="770" y="108" width="599" height="705" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1585501932556" />
-    <state x="348" y="156" key="git4idea.merge.GitPullDialog" timestamp="1581357005897">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="348" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1581357005897" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1585039720074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
